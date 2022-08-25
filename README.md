@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ulyana 🖖🏻<h1>
 <h4>About me</h4> 
   <p>I'm a Frontend Developer from Russia</p>
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+  <img src="https://media3.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=790b7611d4a98bf758da2192f08853f8c059de643d6b6c91&rid=giphy.gif&ct=g" width="400" height="400" />
 <h4>My skills</h4> 
  <div>
 <img src="https://brandslogos.com/wp-content/uploads/images/javascript-logo-vector.svg" alt="<текст>" width="50px"></img>
