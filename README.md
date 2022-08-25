@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Ulyana<h1>
+<h1 align="center">Hi there, I'm Ulyana 🖖🏻<h1>
 <h4>About me</h4> 
   <p>I'm a Frontend Developer from Russia</p>
 <h4>My skills</h4> 
+  <div>
 <img src="https://brandslogos.com/wp-content/uploads/images/javascript-logo-vector.svg" alt="<текст>" width="50px"></img>
 <img src="https://brandslogos.com/wp-content/uploads/images/react-logo.png" alt="<текст>" width="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" alt="<текст>" width="50px"></img>
@@ -13,3 +14,5 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/nodejs-logo.png" alt="<текст>" width="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="<текст>" width="50px"></img>
 <img src="https://brandslogos.com/wp-content/uploads/images/postgresql-inc-logo-vector.svg" alt="<текст>" width="50px"></img>
+  </div>
+
